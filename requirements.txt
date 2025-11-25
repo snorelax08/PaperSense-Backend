@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sentence-transformers
+scikit-learn
+numpy
+pandas
+pdfplumber
+PyPDF2
+python-multipart
+requests
+scipy
